@@ -15,6 +15,10 @@
     <strong>Shaobing Xu*</strong>
 </p>
 
+## News
+
+- The code will be released after paper the paper is accepted.
+
 ## Abstract
 
 Radar has shown strong potential for robust perception in autonomous driving; however, raw radar images are frequently degraded by noise and “ghost” artifacts, making object detection based solely on semantic features highly challenging. To address this limitation, we introduce RaFD, a radar-based object detection framework that estimates inter-frame bird’s-eye-view (BEV) flow and leverages the resulting geometric cues to enhance detection accuracy. Specifically, we design a supervised flow estimation auxiliary task that is jointly trained with the detection network. The estimated flow is further utilized to guide feature propagation from the previous frame to the current one. Our flow-guided, radar-only detector achieves achieves state-of-the-art performance on the RADIATE dataset, underscoring the importance of incorporating geometric information to effectively interpret radar signals, which are inherently ambiguous in semantics.
