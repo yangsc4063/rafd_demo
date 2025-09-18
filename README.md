@@ -46,7 +46,7 @@ Radar has shown strong potential for robust perception in autonomous driving; ho
 
 **Demo on RADIATE Dataset:**
 
-https://github.com/user-attachments/assets/7aafe2a6-03fb-4cba-80e3-fece956c6a8e
+https://github.com/user-attachments/assets/d73327cd-e58f-410e-b0e3-0ec648011454
 
 ## Acknowledgement
 
