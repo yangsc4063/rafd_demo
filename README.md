@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">RaFD: Flow-Guided Radar Perception for Robust Autonomous Driving</h1>
+  <h1 align="center">RaFD: Flow-Guided Radar Detection for Robust Autonomous Driving</h1>
 
   <p align="center">
     <strong>Shuocheng Yang</strong>
