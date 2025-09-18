@@ -38,11 +38,7 @@ Radar has shown strong potential for robust perception in autonomous driving; ho
 
 <div align="center">
     <img src=".\figure\visual_det.png" alt="result_kaist" width="100%" />
-</div>
-
-<div align="center">
-    <img src=".\figure\visual_flow.png" alt="result_kaist" width="50%" />
-</div>
+</div
 
 **Demo on RADIATE Dataset:**
 
