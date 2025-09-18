@@ -25,7 +25,7 @@ Radar has shown strong potential for robust perception in autonomous driving; ho
 
 ## Overview
 
-![overview](figure/rafd.png)
+![overview](figs/rafd.png)
 
 ## Model Zoo
 
@@ -41,7 +41,7 @@ Radar has shown strong potential for robust perception in autonomous driving; ho
 **Qualitative Results on RADIATE Dataset:**
 
 <div align="center">
-    <img src=".\figure\visual_det.png" alt="result_kaist" width="100%" />
+    <img src=".\figs\visual_det.png" alt="result_kaist" width="100%" />
 </div
 
 **Demo on RADIATE Dataset:**
