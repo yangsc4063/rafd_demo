@@ -17,7 +17,7 @@
 
 ## News
 
-- The code will be released after paper the paper is accepted.
+- [2025/09/18] This repository has been created for paper, and code will be released after acceptance.
 
 ## Abstract
 
